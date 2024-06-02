@@ -1,0 +1,2 @@
+https://vitejs.dev/guide/features.html#css-pre-processors
+https://vitejs.dev/guide/static-deploy.html#github-pages
